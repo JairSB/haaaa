@@ -1,0 +1,18 @@
+
+h1{
+    text-align: center;
+}
+
+button{
+    margin-left: 26%;
+}
+
+.container{
+    width: 50%;
+}
+.input-group-text{
+    width: 100px;
+}
+.col{
+    width: 20%
+}
